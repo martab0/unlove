@@ -4,6 +4,7 @@
 Replace problematic characters in file name with their Unicode descriptions.
 Allowed characters are defined in variable `standard_chars`.
 
+* Project: Wojciech Ostrowicz
 * Specification: Marta Bartnicka
 * Written by: Claude v3.5 Sonnet
 
